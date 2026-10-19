@@ -7,8 +7,7 @@
 <br/>
 
 <a href="https://github.com/Kartiksh123"><img src="https://img.shields.io/badge/GitHub-Kartiksh123-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/></a>
-<a href="https://ai-powered-code-reviewee.streamlit.app/"><img src="https://img.shields.io/badge/Live%20Demo-AI%20Code%20Reviewer-0E7490?style=for-the-badge&logo=streamlit&logoColor=white" alt="AI Code Reviewer live demo"/></a>
-<a href="https://www.linkedin.com/" ><img src="https://img.shields.io/badge/LinkedIn-Add%20profile%20URL-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn placeholder — replace with your profile URL"/></a>
+<a href="https://www.linkedin.com/" ><img src="https://img.shields.io/badge/LinkedIn-Add%20profile%20URL-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/kartik-sharma-703499339/"/></a>
 
 </div>
 
