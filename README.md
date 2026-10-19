@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://github.com/Kartiksh123"><img src="https://img.shields.io/badge/GitHub-Kartiksh123-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/></a>
-<a href="https://www.linkedin.com/" ><img src="https://img.shields.io/badge/LinkedIn-Add%20profile%20URL-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/kartik-sharma-703499339/"/></a>
+<a href="https://www.linkedin.com/" ><img src="https://img.shields.io/badge/LinkedIn-Kartik-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/kartik-sharma-703499339/"/></a>
 
 </div>
 
