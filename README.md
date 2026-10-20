@@ -12,6 +12,9 @@
 <a href="https://www.linkedin.com/in/kartik-sharma-703499339/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
 </a>
+<a href="https://kartikportfolio-xi.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-22C55E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website"/>
+</a>
 
 <br/><br/>
 
